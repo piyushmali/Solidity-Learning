@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="solidity-logo.png" alt="Solidity Logo" width="200" height="200">
-</p>
-
 <h1 align="center">Solidity Programs Repository</h1>
 
 <p align="center">
@@ -17,7 +13,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/language-Solidity-brightgreen.svg" alt="Language">
-  <img src="https://img.shields.io/github/license/piyushmali/solidity-programs.svg" alt="License">
 </p>
 
 ---
@@ -101,7 +96,7 @@ To use any of the Solidity programs in this repository, follow these steps:
 1. Clone the repository: `git clone https://github.com/piyushmali/solidity-programs.git`
 2. Navigate to the program of your choice: `cd solidity-programs/program-name`
 3. Compile the Solidity code using a suitable compiler such as [Remix](https://remix.ethereum.org/).
-4. Deploy the smart contract to an Ethereum network of your choice (e.g., Ganache, Ropsten, Mainnet).
+4. Deploy the smart contract to an Ethereum network of your choice (e.g., Ganache, Sepolia, Mainnet).
 5. Interact with the deployed contract using a suitable Ethereum wallet or DApp browser.
 
 Feel free to customize the programs or use them as a reference for your own projects. Contributions are also welcome!
