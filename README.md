@@ -8,15 +8,6 @@
   <img src="https://img.shields.io/badge/language-Solidity-brightgreen.svg" alt="Language">
 </p>
 
----
-
-## Contents
-1. [Introduction](#introduction)
-2. [List of Solidity Programs](#list-of-solidity-programs)
-3. [Get Started](#get-started)
-4. [Contribute](#contribute)
-5. [License](#license)
-
 ## Introduction
 Welcome to the Solidity Programs Repository, where innovation meets blockchain! Delve into our curated collection of Solidity programs designed to showcase the endless possibilities of Ethereum smart contract development. 
 
