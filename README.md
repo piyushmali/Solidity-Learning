@@ -4,10 +4,6 @@
   <strong>Unlock the Power of Smart Contracts with our Interactive Solidity Programs!</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/language-Solidity-brightgreen.svg" alt="Language">
-</p>
-
 ## Introduction
 Welcome to the Solidity Programs Repository, where innovation meets blockchain! Delve into our curated collection of Solidity programs designed to showcase the endless possibilities of Ethereum smart contract development. 
 
