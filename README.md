@@ -5,13 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="#contents">Contents</a> •
-  <a href="#usage">Get Started</a> •
-  <a href="#contributing">Contribute</a> •
-  <a href="#license">License</a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/language-Solidity-brightgreen.svg" alt="Language">
 </p>
 
