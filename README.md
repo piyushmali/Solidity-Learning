@@ -1,7 +1,4 @@
-<h1 align="center">Solidity Programs Repository</h1>
-
-## Introduction
-Welcome to the Solidity Programs Repository, where innovation meets blockchain! Delve into our curated collection of Solidity programs designed to showcase the endless possibilities of Ethereum smart contract development. 
+<h1 align="center">Solidity Programs Repository</h1> 
 
 ## List of Solidity Programs
 Discover the vast array of Solidity programs available in our repository. Each program demonstrates unique functionalities and features of Solidity, empowering you to build robust and scalable solutions.
