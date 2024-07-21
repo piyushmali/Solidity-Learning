@@ -1,9 +1,5 @@
 <h1 align="center">Solidity Programs Repository</h1>
 
-<p align="center">
-  <strong>Unlock the Power of Smart Contracts with our Interactive Solidity Programs!</strong>
-</p>
-
 ## Introduction
 Welcome to the Solidity Programs Repository, where innovation meets blockchain! Delve into our curated collection of Solidity programs designed to showcase the endless possibilities of Ethereum smart contract development. 
 
