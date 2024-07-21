@@ -1,7 +1,6 @@
 <h1 align="center">Solidity Programs Repository</h1> 
 
 ## List of Solidity Programs
-Discover the vast array of Solidity programs available in our repository. Each program demonstrates unique functionalities and features of Solidity, empowering you to build robust and scalable solutions.
 
 1. **Check Contract Address:** A Solidity function to check if a given address is a contract or not.
 2. **Token Transfer:** A Solidity function to transfer tokens from one address to another.
@@ -58,37 +57,3 @@ Discover the vast array of Solidity programs available in our repository. Each p
 53. **Decentralized Ride-Sharing Platform:** A Solidity function to implement a decentralized ride-sharing platform, allowing users to find and offer rides without relying on a centralized platform.
 54. **Decentralized Supply Chain Financing Platform:** A Solidity function to implement a decentralized supply chain financing platform, allowing suppliers to obtain financing based on their receivables.
 55. **Decentralized Sports Betting Platform:** A Solidity function to implement a decentralized sports betting platform, enabling users to bet on the outcome of sports events such as football and basketball games.
-
-Please feel free to explore the repository and try out the Solidity programs!
-
-## Usage
-To use any of the Solidity programs in this repository, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/piyushmali/solidity-programs.git`
-2. Navigate to the program of your choice: `cd solidity-programs/program-name`
-3. Compile the Solidity code using a suitable compiler such as [Remix](https://remix.ethereum.org/).
-4. Deploy the smart contract to an Ethereum network of your choice (e.g., Ganache, Sepolia, Mainnet).
-5. Interact with the deployed contract using a suitable Ethereum wallet or DApp browser.
-
-Feel free to customize the programs or use them as a reference for your own projects. Contributions are also welcome!
-
-## Contributing
-If you would like to contribute to this repository, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b feature/your-feature-name`.
-3. Make your changes and commit them: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature/your-feature-name`.
-5. Create a pull request describing your changes.
-
-Please ensure that your contributions adhere to the [Contributor Covenant](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md).
-
-## License
-This repository is licensed under the [MIT License](LICENSE).
-
-## Show Your Support
-If you find this repository helpful, please consider giving it a star ⭐️ and following my profile. Your support is greatly appreciated!
-
-You can also share this repository with others who might find it useful.
-
-Thank you for your support!
