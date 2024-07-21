@@ -3,8 +3,6 @@
 ## Introduction
 Welcome to the Solidity Programs Repository, where innovation meets blockchain! Delve into our curated collection of Solidity programs designed to showcase the endless possibilities of Ethereum smart contract development. 
 
-Whether you're a budding developer or an experienced coder, our repository is your gateway to the exciting world of Solidity. Explore our interactive programs, unravel their code, and unleash your creativity to build your own groundbreaking smart contracts.
-
 ## List of Solidity Programs
 Discover the vast array of Solidity programs available in our repository. Each program demonstrates unique functionalities and features of Solidity, empowering you to build robust and scalable solutions.
 
