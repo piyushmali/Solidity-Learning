@@ -1,0 +1,73 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "store",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {
+				"get()": {
+					"details": "Returns value of 'n'"
+				},
+				"store()": {
+					"details": "Stores value in variable 'n'"
+				}
+			},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/2_Storage.sol": "Storage"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/2_Storage.sol": {
+			"keccak256": "0x1f60b8b44d45096246f784be57b4d8418ea7f975a1a3a150a2c970cfedcfb5a7",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4c6a033eae515ca2740c9848efc0c9d66099b27b59a9b6b1ae55be5e4e41bfc3",
+				"dweb:/ipfs/QmSVHoGz1rC2mHNZCLTEqytAD4Q7d2bdEdNBcFzHFgKDDe"
+			]
+		}
+	},
+	"version": 1
+}

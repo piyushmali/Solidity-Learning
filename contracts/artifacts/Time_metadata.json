@@ -1,0 +1,65 @@
+{
+	"compiler": {
+		"version": "0.8.25+commit.b61c2a91"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "time",
+						"type": "uint256"
+					}
+				],
+				"name": "getTime",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/10_Time.sol": "Time"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/10_Time.sol": {
+			"keccak256": "0x66cb86ec382aab08e73bd0a3687efd3a82b12f34f987855ed8c83ee879cfaa70",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://644f70d6a4d42f0b1cd1efcd4b9dab386ce274da4111fa3eee98b75c8ea780e5",
+				"dweb:/ipfs/Qmf4tmwdpzaW8KZ9yKNz5svVfzCdcYcnamc5T6RVmqxcUD"
+			]
+		}
+	},
+	"version": 1
+}
