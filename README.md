@@ -1,7 +1,5 @@
 # Solidity Learning Repository
 
-Welcome to the Solidity Learning Repository! This repository contains a collection of practice smart contract projects aimed at enhancing your understanding and proficiency in Solidity, the programming language used for developing smart contracts on the Ethereum blockchain.
-
 ## Purpose
 
 The main objective of this repository is to provide a structured and practical approach to learning Solidity. Each project in this repository is designed to cover different aspects of Solidity programming, ranging from basic concepts to more advanced features.
